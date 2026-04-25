@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: gfvmimage.jpg
+featured-image: https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.italia.it%2Fen%2Flazio%2Frome%2Fostia&ved=0CBYQjRxqFwoTCPjP-b7GiJQDFQAAAAAdAAAAABAG&opi=89978449
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
